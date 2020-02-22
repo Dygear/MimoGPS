@@ -1,0 +1,25 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "cortex-debug.openocdPath": "${command:particle.getDebuggerOpenocdPath}",
+    "files.associations": {
+        "*.ino": "cpp",
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "cmath": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "tuple": "cpp",
+        "functional": "cpp",
+        "memory": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp"
+    },
+    "particle.targetPlatform": "electron",
+    "particle.targetDevice": ""
+}
